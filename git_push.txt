@@ -7,7 +7,7 @@ git checkout -b NEW_BRANCH_NAME
 
 
 //git init 
-//git remote add origin https://github.com/Ponmuthu1/Prep-Connect
+//git remote add origin https://github.com/Ponmuthu1/Expense-Tracker
 
 git add .
 git commit -m "Commit message"
